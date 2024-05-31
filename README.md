@@ -7,7 +7,7 @@
     <details>
     <summary>김동윤 </summary>
 
-   ![img](./img/kim-dong-yoon.png)
+   ![img](./img/kim-dong-yun.png)
 
     </details>
 

@@ -105,21 +105,24 @@
 
 2. 백엔드
     <!-- * Spring Native -->
-    *  Spring Boot
+    * Spring Boot
     * MyBatis
-    <!-- * Spring Security -->
+    * Spring Security
+      * 개인 정보 수정을 위한 로그인 계정 필요 
 
+3. 서버
+   *  
 
-    * 추후
-        * Jenkins
-        * Spring Test
-            * Mockito
-            * JUnit
-        * Spring Cloud
-            * MSA
-        <!-- * Kafka -->
-        <!-- * Redis -->
-        <!-- * JPA -->
+* 추후
+    * Jenkins
+    * Spring Test
+        * Mockito
+        * JUnit
+    * Spring Cloud
+        * MSA
+    <!-- * Kafka -->
+    <!-- * Redis -->
+    <!-- * JPA -->
 
 
 

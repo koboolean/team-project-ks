@@ -107,6 +107,9 @@
     <!-- * Spring Native -->
     * Spring Boot
     * MyBatis
+    * Liquibase
+    * Swagger
+    * Lombok
     * Spring Security
       * 개인 정보 수정을 위한 로그인 계정 필요 
 
@@ -118,8 +121,8 @@
     * Spring Test
         * Mockito
         * JUnit
-    * Spring Cloud
-        * MSA
+    <!--* Spring Cloud
+        * MSA -->
     <!-- * Kafka -->
     <!-- * Redis -->
     <!-- * JPA -->

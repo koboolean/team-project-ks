@@ -17,6 +17,29 @@
     <summary>정혜인 </summary>
 
    ![img](./img/jeong-hye-in.png)
+   ## 💻 Stack
+
+   ### Backend
+    <img alt="Spring" src ="https://img.shields.io/badge/SPRING-6DB33F?&style=for-the-badge&logo=Spring&logoColor=white"/> 
+    <img alt="SpringBoot" src ="https://img.shields.io/badge/SPRINGBOOT-6DB33F?&style=for-the-badge&logo=SpringBoot&logoColor=white"/> 
+    <br>
+
+   ### Front
+    <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
+
+   ### Server
+    <img alt="docker" src ="https://img.shields.io/badge/docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white"/> 
+
+   ### ETC
+    <img alt="exbuilder" src ="https://img.shields.io/badge/exbuilder-3776AB?&style=for-the-badge&logo=framework&logoColor=white"/>
+    <img alt="xplatform" src ="https://img.shields.io/badge/xplatform-3776AB?&style=for-the-badge&logo=framework&logoColor=white"/>
+
+    <br>
+     ## ✌️ ...
+
+   <a href = "https://github.com/hijeong995/"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+   </a>
+   <a href = "https://velog.io/@hijeong995/posts"><img alert="velog" src="https://img.shields.io/badge/velog-20C997?&style=for-the-badge&logo=Velog&logoColor=white"/></a>
 
     </details>
 
@@ -83,7 +106,9 @@
     *  해당 url 사용안함 처리 혹은 직접 이력 비공개 할 수 있도로 제공
 
 * **AI 사용 관련 설명**
-    * ....
+    * 사람인, 잡코리아 등 API를 통해 데이터 수집 및 데이터 가공
+    * 가공된 데이터 DB에 저장
+    * 배치를 통해 하루 마다 데이터 수집
 
 </details>
 

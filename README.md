@@ -8,6 +8,27 @@
     <summary>김동윤 </summary>
 
    ![img](./img/kim-dong-yun.png)
+   ## 💻 Stack
+
+   ### Backend
+    <img alt="Spring" src ="https://img.shields.io/badge/SPRING-6DB33F?&style=for-the-badge&logo=Spring&logoColor=white"/> 
+    <img alt="SpringBoot" src ="https://img.shields.io/badge/SPRINGBOOT-6DB33F?&style=for-the-badge&logo=SpringBoot&logoColor=white"/> 
+
+   ### Front
+    <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+    <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
+    <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
+
+   ### Server
+    <img alt="docker" src ="https://img.shields.io/badge/docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white"/> 
+
+   ### ETC
+    <img alt="exbuilder" src ="https://img.shields.io/badge/exbuilder-3776AB?&style=for-the-badge&logo=framework&logoColor=white"/>
+
+    <br>
+    ## ✌️ ...
+
+    <a href = "https://github.com/ksvs011/"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 
     </details>
 

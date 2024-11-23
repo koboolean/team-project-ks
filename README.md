@@ -185,9 +185,8 @@
 
 * 추후
     * Jenkins
-    * Spring Test
-        * Mockito
-        * JUnit
+    * Docker
+    * PostgreSQL
     <!--* Spring Cloud
         * MSA -->
     <!-- * Kafka -->
